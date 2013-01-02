@@ -9,6 +9,7 @@ public class safddsfa {
 		System.out.println("ebati botaa");
 		System.out.println("ebati bota2");
 		System.out.println("bot3");
+		System.out.println("bot4");
 	}
 
 }
