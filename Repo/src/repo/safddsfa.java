@@ -6,7 +6,7 @@ public class safddsfa {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("samo cska");
+		System.out.println("samo cskaa");
 	}
 
 }
