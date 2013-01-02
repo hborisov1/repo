@@ -8,6 +8,7 @@ public class safddsfa {
 	public static void main(String[] args) {
 		System.out.println("ebati botaa");
 		System.out.println("ebati bota2");
+		System.out.println("bot3");
 	}
 
 }
