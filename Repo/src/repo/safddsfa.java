@@ -6,7 +6,7 @@ public class safddsfa {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		//navsqkyde ima matrial
+		//ne sym ti big meeech
 	}
 
 }
