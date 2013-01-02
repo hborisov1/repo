@@ -6,10 +6,7 @@ public class safddsfa {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("ebati botaa");
-		System.out.println("ebati bota2");
-		System.out.println("bot3");
-		System.out.println("bot4");
+		System.out.println("bot1234");
 	}
 
 }
