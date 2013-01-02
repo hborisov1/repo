@@ -6,7 +6,7 @@ public class safddsfa {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		//ypsurt sa mnogo golemi
+		//navsqkyde ima matrial
 	}
 
 }
